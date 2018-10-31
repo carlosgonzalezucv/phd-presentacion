@@ -2,7 +2,7 @@
 
 ---?color=lightgray
 @snap[north-west]
-  Contenido de la presentacion
+  <h4 class="header"> Contenido de la presentacion </h4>
 @snapend
 
 @snap[west list-content-concise span-60]
