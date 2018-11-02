@@ -12,16 +12,15 @@
   <p>Dr. Nelson Merentes </p>
   <p>Dr. Zsolt Páles  </p>
 @snapend
----?color=lightgray
-@snap[north-west]
-  <h4 class="header"> Contenido de la presentacion </h4>
-@snapend
 
-@snap[west list-content-concise span-60]
-@ol[](false)
-- Funciones convexas
-- Convexidad fuerte
-- Convexidad aproximada
-@olend
-<br><br>
-@snapend
+
+---?include=laminas/content.md
+
+---?include=laminas/FuncionesConvexas/def.md
+
+<script type='text/javascript'>
+  
+  function test() {
+    alert("Epa", MathJax);
+  }
+</script>
