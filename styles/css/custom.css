@@ -7,3 +7,9 @@
   width: 100%;
   background-color: green;
 }
+
+.ucv-logo {
+  width: 70%;
+  border: none !important;
+  border-radius: 50%;
+}
