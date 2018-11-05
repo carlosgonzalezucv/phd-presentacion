@@ -13,3 +13,20 @@
   border: none !important;
   border-radius: 50%;
 }
+
+.definition {
+  text-align: justify;
+  background-color: white;
+  color: black;
+  width: 100%;
+  padding: 20px!important;
+  border-radius: 20px;
+}
+
+.definition-title {
+  padding: 20px 20px !important;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+  width: 80%;
+}
